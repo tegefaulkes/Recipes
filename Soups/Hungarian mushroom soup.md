@@ -1,6 +1,8 @@
+![[Soups]]
+
 [Source](https://www.food.com/recipe/hungarian-mushroom-soup-from-the-moosewood-cookbook-135215)
 
- #vegan #saucepan 
+ #vegan
 ## Ingredients
 
 1. 350g sliced #mushroom

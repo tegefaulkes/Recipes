@@ -1,4 +1,6 @@
-#sweetooth #baked
+![[Sweets]]
+
+#sweet_tooth #baked
 ## Ingredients
 
 1. 450g (2 cups) #butter

@@ -1,6 +1,9 @@
+![[Stews]]
+![[Roasts]]
+
 [Source](https://www.recipetineats.com/slow-cooker-beef-pot-roast/)
 
-#hearty #dutch_oven
+#hearty #dutch_oven #delish
 ## Ingredients
 
 1. 2 kg #beef_chuck roast (ignore if vegan mode, add extra veg)
@@ -15,7 +18,7 @@
 10. 1/3 cup (50g) #flour (plain / all purpose) (GF - Note 2b)
 11. 1 tsp dried #rosemary
 12. 1 1/2 tsp dried #thyme
-13. 750g #potatoes , peeled and cut into 2.5 cm / 1" pieces
+13. 750g #potato , peeled and cut into 2.5 cm / 1" pieces
 ## Recipe
 
 1. Pat #beef_chuck dry with paper towels. Sprinkle generously with #salt and #pepper all over.
@@ -24,7 +27,7 @@
 4. In the same skillet, add #onion and #garlic. Cook for 2 minutes until #onion is browned.
 5. Add #red_wine, reduce by half. Transfer to slow cooker.
 6. Mix together #flour and about 1 cup of the #mushroom_stock. Lumps is fine. Pour into slow cooker.
-7. Add remaining #mushroom_stock , #carrots, #celery, #rosemary and #thyme into slow cooker.
+7. Add remaining #mushroom_stock , #carrot, #celery, #rosemary and #thyme into slow cooker.
 8. Cover and cook in #oven at 160C for 3 hours
 9. Add #potato, slow cook for 1 hour.
 10. Remove #beef_chuck. Rest for 5 minutes, then slice thickly or shred.
